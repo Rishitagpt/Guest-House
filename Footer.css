@@ -1,0 +1,5 @@
+.footer { background: var(--primary); color: #fff; padding: 28px 0; }
+.footer-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.footer-links { display: flex; gap: 16px; font-weight: 600; }
+.footer a:hover { text-decoration: underline; }
+@media (max-width: 700px) { .footer-row { flex-direction: column; text-align: center; } }

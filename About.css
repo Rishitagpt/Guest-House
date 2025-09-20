@@ -1,0 +1,7 @@
+.about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: center; }
+.about-text p { margin-top: 12px; color: #6b7280; }
+.about-image .img-box {
+  background: var(--muted); border: 1px dashed var(--border); color: #6b7280;
+  border-radius: 12px; display: grid; place-items: center; aspect-ratio: 4/3;
+}
+@media (max-width: 900px) { .about-grid { grid-template-columns: 1fr; } }

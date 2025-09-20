@@ -1,0 +1,9 @@
+.faq { background: #fafafa; border-block: 1px solid var(--border); }
+.faq-list { margin-top: 24px; display: grid; gap: 12px; max-width: 800px; margin-inline: auto; }
+.faq-item { padding: 12px; }
+.faq-q {
+  width: 100%; display: flex; align-items: center; justify-content: space-between;
+  background: transparent; border: none; cursor: pointer; padding: 8px; font-weight: 700;
+}
+.faq-a { padding: 0 8px 12px 8px; color: #4b5563; }
+.chev { font-size: 22px; line-height: 1; }

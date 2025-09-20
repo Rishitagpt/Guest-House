@@ -1,0 +1,12 @@
+.pricing-grid {
+  margin-top: 24px;
+  display: grid; gap: 16px;
+  grid-template-columns: repeat(3, 1fr);
+}
+.price-card { padding: 20px; display: grid; gap: 16px; }
+.price-head h3 { margin: 0; font-size: 20px; }
+.price { font-size: 28px; font-weight: 900; margin-top: 6px; }
+.per { font-size: 14px; color: #6b7280; font-weight: 500; }
+.features { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; color: #111; }
+.features li { font-size: 14px; }
+@media (max-width: 900px) { .pricing-grid { grid-template-columns: 1fr; } }
