@@ -25,6 +25,10 @@ It's designed as a lightweight, component-based landing site with:
   <img src="s1.jpg" alt="Screenshot 1" width="45%"/>
   <img src="s2.jpg" alt="Screenshot 2" width="45%"/>
 </p>
+<p align="center">
+  <img src="s3.jpg" alt="Screenshot 3" width="45%"/>
+  <img src="s4.jpg" alt="Screenshot 4" width="45%"/>
+</p>
 
 ---
 
