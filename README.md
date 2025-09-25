@@ -19,6 +19,15 @@ It's designed as a lightweight, component-based landing site with:
 
 ---
 
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="s1.jpg" alt="Screenshot 1" width="45%"/>
+  <img src="s2.jpg" alt="Screenshot 2" width="45%"/>
+</p>
+
+---
+
 ## ✨ Key Features
 
 - ✅ Component-driven React structure (Navbar, Hero, About, Gallery, Pricing, FAQ, Contact, Footer)  
