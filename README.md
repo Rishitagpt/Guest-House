@@ -1,4 +1,4 @@
-# 🏡 HAPPY HOME STAY — Guest House Landing (README)
+# 🏡 HAPPY HOME STAY — Guest House Landing
 
 > A simple, responsive React + Vite landing site for **HAPPY HOME STAY** — a small guest-house / homestay landing page showcasing hero, rooms, gallery, pricing, FAQ and contact sections.
 
